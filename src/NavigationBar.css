@@ -1,10 +1,12 @@
 h1 {
     font-family: "Microsoft JhengHei Light";
+    font-size: large;
     color: aliceblue;
     margin: 20px;
 }
 .HomeLogo{
     width: 80px;
     height: 80px;
-    margin: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
 }

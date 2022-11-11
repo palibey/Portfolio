@@ -14,13 +14,19 @@ export function NavigationBar() {
             </Navbar.Brand>
             <Nav className="me-auto">
                 <LinkContainer to="/education">
-                    <Nav.Link>Education</Nav.Link>
+                    <Nav.Link>
+                        <h1>Education</h1>
+                    </Nav.Link>
                 </LinkContainer>
                 <LinkContainer to="/skills">
-                    <Nav.Link>Skills</Nav.Link>
+                    <Nav.Link>
+                        <h1>Skills</h1>
+                    </Nav.Link>
                 </LinkContainer>
                 <LinkContainer to="/certificates">
-                    <Nav.Link>Certificates</Nav.Link>
+                    <Nav.Link>
+                        <h1>Certificates</h1>
+                    </Nav.Link>
                 </LinkContainer>
             </Nav>
     </Navbar>
