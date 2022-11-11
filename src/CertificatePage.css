@@ -1,0 +1,9 @@
+.Carousel {
+    display: flex;
+    width: 1200px;
+    height: 800px;
+}
+.CertificateDisplay{
+    justify-content: center;
+    display: flex;
+}

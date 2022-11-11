@@ -1,0 +1,8 @@
+.profilePicture {
+    border-radius: 50%;
+    display: flex;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
