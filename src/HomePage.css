@@ -1,8 +1,31 @@
 .profilePicture {
+    width: 350px;
+    height: 350px;
     border-radius: 50%;
     display: flex;
+    margin: 20px;
 }
 .content{
     display: flex;
     justify-content: center;
+}
+.summary{
+    display: flex;
+    justify-content: center;
+}
+h5{
+    width: 1000px;
+    justify-content: center;
+    margin: 20px;
+    display: flex;
+}
+.experience{
+    display: flex;
+    justify-content: center;
+}
+.Logo{
+    justify-content: center;
+    display: flex;
+    width: 300px;
+    height: 200px;
 }
